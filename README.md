@@ -13,15 +13,25 @@ You are required to help the manager to predict the right group of the new custo
  # Features
 
 1- ID (customer id)
+
 2-Gender(gender of the customer )
+
 3-Ever_Married (is the customer married?)
+
 4-Age (age of the customer)
+
 5-Graduated (is the customer graduated?)
+
 6-Profession (profession of the customer)
+
 7-Work_Experience( work expereince of the customer(in years)
+
 8-Spending_Score (spending range of the customer)
+
 9-Family_Size (family size of the customer)
+
 10-Var_1 (variable 1 (external)
+
 11-Segmentation (segmentation of the customer(target variable)
 
   # Tools
